@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ML/Dl and computer vision
 - 💞️ I’m looking to collaborate on Bionically Engineered Bodyparts(Ai Adapted)
 - 📫 How to reach me Instagram :- @tariwei_bisina
+- Replit @ https://replit.com/@BisinaDaniel
 
 <!---
 lyon98-dbios/lyon98-dbios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
