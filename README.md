@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lyon98-dbios
+- 👋 Hi, I’m Daniel Bisina
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning ML/Dl and computer vision
 - 💞️ I’m looking to collaborate on Bionically Engineered Bodyparts(Ai Adapted)
