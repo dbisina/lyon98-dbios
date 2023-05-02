@@ -2,7 +2,7 @@
 <img src="https://github.com/lyon98-dbios/lyon98-dbios/blob/main/Daniel_readme.png" width="100%">
 
 <p align="center">
-  <a href="https://[danielbisina.com];;(https://linktr.ee/tariweibisina)" target="_blank">
+  <a href="https://[danielbisina.com](https://linktr.ee/tariweibisina)" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=#37365C&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/danielbisina/" target="_blank">
