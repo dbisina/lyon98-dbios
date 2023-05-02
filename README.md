@@ -2,17 +2,14 @@
 <img src="https://github.com/lyon98-dbios/lyon98-dbios/blob/main/Daniel_readme.png" width="100%">
 
 <p align="center">
-  <a href="https://[danielbisina.com](https://linktr.ee/tariweibisina)" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=#0000FF&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://linktr.ee/tariweibisina" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/danielbisina/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=#0000FF&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/DanielBisina" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=#0000FF&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://danielbisina.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=#0000FF&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
 
@@ -49,12 +46,14 @@ See [my website](https://linktr.ee/tariweibisina) for more information!
 
 
 
-<li align="center">
+<p align="center">
+  <a href="https://linktr.ee/tariweibisina" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/danielbisina/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/DanielBisina" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  </li>
 </p>
