@@ -1,5 +1,5 @@
 
-<img src="C:\Users\danie\Documents\GitHub\lyon98.dbios\images\Daniel_readme.png" width="100%">
+<img src="https://github.com/lyon98-dbios/lyon98-dbios/blob/main/Daniel_readme.png" width="100%">
 
 <p align="center">
   <a href="https://[danielbisina.com];;(https://linktr.ee/tariweibisina)" target="_blank">
