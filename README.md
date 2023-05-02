@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=#37365C&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://danielbisina.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=#990099f&style=plastic&logo=react&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=#990099&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
