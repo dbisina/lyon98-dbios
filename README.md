@@ -3,16 +3,16 @@
 
 <p align="center">
   <a href="https://[danielbisina.com](https://linktr.ee/tariweibisina)" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=#37365C&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=#0000FF&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/danielbisina/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=#990099&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=#0000FF&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/DanielBisina" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=#37365C&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=#0000FF&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://danielbisina.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=#990099&style=plastic&logo=react&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=#0000FF&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
