@@ -1,5 +1,5 @@
 
-<img src="https://github.com/lyon98-dbios/lyon98-dbios/blob/main/Daniel_readme.png" width="100%">
+<img src="https://github.com/lyon98-dbios/lyon98-dbios/blob/main/lyon98-dbios.png" width="100%">
 
 <p align="center">
   <a href="https://linktr.ee/tariweibisina" target="_blank">
